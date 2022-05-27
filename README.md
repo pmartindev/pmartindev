@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hey there 👋
+You may have met me as a:
+- DevOps Engineer at GitHub
+- Mod at DevOps Stack Exchange
 <!--
 **pmartindev/pmartindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
